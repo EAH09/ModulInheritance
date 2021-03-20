@@ -36,3 +36,8 @@ Pada latihan 6 ini mengaplikasikan overloading methods. Ini terdapat 3 method de
 # Pratikum 1
 ![Pratikum 1](https://github.com/EAH09/ModulInheritance/blob/f016a308302369bf07558c37ff7dd146c553e023/Pratikum%201.png)
 
+Pada pratikum ini menjelaskan sebuah pembagian mata pelajaran utama serta mata pelajaran keahlian. Jadi terdapat induk class yang berisi mapel utama. Serta subbclass yang berisi mapel keahlian. Dalam subclass ini memiliki 3 anak class yaitu rpl, tkj dan multimedia. Disini menggunakan keyword this dan keywoard super. Lalu untuk mengcompile di class main. 
+
+# Kesimpulan
+Menurut Saya, Inheritance atau pewarisan adalah pemograman untuk membuat suatu kelas yang didasarkan pada kelas yang sudah ada sehingga mewarisi semua metode dan variabelnya. Biasanya terdapat 3 jenis class yaitu class induk, class child, dan main.class. 
+
